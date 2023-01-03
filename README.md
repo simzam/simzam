@@ -1,5 +1,7 @@
 Hi friends. 
 
-Have written some code in C and Python. 
+Focusing on web development. Currently working with the frameworks: Django framework, HTMX, and Pixi.js. 
 
-Now focusing on web development. Currently working on the Django framework. It is really great! 
+Django and HTMX is an impressive combination so far. I really enjoy working with both.
+
+Gradually I am understanding a little about Pixi.js, JS is still new and strange.
